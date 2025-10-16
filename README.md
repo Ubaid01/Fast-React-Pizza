@@ -1,8 +1,10 @@
 <h1 align="center">🍕 Fast React Pizza </h1>
 
-<a align="center" href="https://zafast-pizza.netlify.app"> 
-    <img src="./public/overview.png" alt="Fast React Pizza" />
-</a>
+<div align="center">
+  <a href="https://zafast-pizza.netlify.app" target="_blank">
+    <img src="./public/overview.png" alt="Fast React Pizza" height="350px"/>
+  </a>
+</div>
 
 ---
 
